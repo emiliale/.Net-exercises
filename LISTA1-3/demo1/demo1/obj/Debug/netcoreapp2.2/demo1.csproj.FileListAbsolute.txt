@@ -1,0 +1,10 @@
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\netcoreapp2.2\demo1.deps.json
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\netcoreapp2.2\demo1.runtimeconfig.json
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\netcoreapp2.2\demo1.runtimeconfig.dev.json
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\netcoreapp2.2\demo1.dll
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\netcoreapp2.2\demo1.pdb
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\netcoreapp2.2\demo1.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\netcoreapp2.2\demo1.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\netcoreapp2.2\demo1.AssemblyInfo.cs
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\netcoreapp2.2\demo1.dll
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\netcoreapp2.2\demo1.pdb

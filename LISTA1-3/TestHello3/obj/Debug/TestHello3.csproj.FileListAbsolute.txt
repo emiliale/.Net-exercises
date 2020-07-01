@@ -1,0 +1,6 @@
+C:\Users\emila\source\repos\TestHello3\TestHello3\bin\Debug\TestHello3.exe.config
+C:\Users\emila\source\repos\TestHello3\TestHello3\bin\Debug\TestHello3.exe
+C:\Users\emila\source\repos\TestHello3\TestHello3\bin\Debug\TestHello3.pdb
+C:\Users\emila\source\repos\TestHello3\TestHello3\obj\Debug\TestHello3.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\TestHello3\TestHello3\obj\Debug\TestHello3.exe
+C:\Users\emila\source\repos\TestHello3\TestHello3\obj\Debug\TestHello3.pdb

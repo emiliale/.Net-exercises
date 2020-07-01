@@ -1,0 +1,6 @@
+C:\Users\emila\source\repos\ad4\ad4\bin\Debug\ad4.exe.config
+C:\Users\emila\source\repos\ad4\ad4\bin\Debug\ad4.exe
+C:\Users\emila\source\repos\ad4\ad4\bin\Debug\ad4.pdb
+C:\Users\emila\source\repos\ad4\ad4\obj\Debug\ad4.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\ad4\ad4\obj\Debug\ad4.exe
+C:\Users\emila\source\repos\ad4\ad4\obj\Debug\ad4.pdb

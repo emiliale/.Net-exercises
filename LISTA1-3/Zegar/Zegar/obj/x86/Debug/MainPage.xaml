@@ -1,0 +1,44 @@
+﻿<Page x:ConnectionId='1'
+x:Class="Zegar.MainPage" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="using:Zegar" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.TopAppBar>
+        <CommandBar IsOpen="True">
+            <AppBarButton x:ConnectionId='2' Icon="Play"                         />
+            <AppBarButton x:ConnectionId='3' Icon="Play"                             />
+        </CommandBar>
+    </Page.TopAppBar>
+
+    <Canvas Width="300" Height="300" RenderTransformOrigin="0.5,0.5">
+        <Canvas.RenderTransform>
+            <CompositeTransform Rotation="-90"/>
+        </Canvas.RenderTransform>
+
+        <Ellipse Width="10" Height="10" Fill="Red" Canvas.Left="145" Canvas.Top="145"/>
+        <Ellipse x:ConnectionId='4' x:Name="ClockFace" Fill="#FFCAE2F6" Height="300" Width="300" Canvas.Left="0" Canvas.Top="0" />
+        <Border CornerRadius="350">
+            <Border.Background>
+                <ImageBrush ImageSource="Assets/clock.png"/>
+            </Border.Background>
+        </Border>
+        <Line Canvas.Left="150" Canvas.Top="150" Fill="Blue" StrokeThickness="3" Stroke="Blue" X1="0" Y1="0" X2="120" Y2="0">
+            <Line.RenderTransform>
+                <RotateTransform x:ConnectionId='7' CenterX="0" CenterY="0" Angle="0" x:Name="rotateM"/>
+            </Line.RenderTransform>
+        </Line>
+        <Line Canvas.Left="150" Canvas.Top="150" Fill="Red" StrokeThickness="3" Stroke="Red" X1="0" Y1="0" X2="80" Y2="0">
+            <Line.RenderTransform>
+                <RotateTransform x:ConnectionId='6' CenterX="0" CenterY="0" Angle="0" x:Name="rotateH"/>
+            </Line.RenderTransform>
+        </Line>
+
+        <Line Canvas.Left="150" Canvas.Top="150" Fill="Green" StrokeThickness="3" Stroke="Green" X1="0" Y1="0" X2="150" Y2="0">
+            <Line.RenderTransform>
+                <RotateTransform x:ConnectionId='5' CenterX="0" CenterY="0" Angle="0" x:Name="rotateS"/>
+            </Line.RenderTransform>
+        </Line>
+    </Canvas>
+
+
+</Page>
+

@@ -1,0 +1,10 @@
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\bin\Debug\netcoreapp3.0\List11bad0c.exe
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\bin\Debug\netcoreapp3.0\List11bad0c.deps.json
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\bin\Debug\netcoreapp3.0\List11bad0c.runtimeconfig.json
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\bin\Debug\netcoreapp3.0\List11bad0c.runtimeconfig.dev.json
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\bin\Debug\netcoreapp3.0\List11bad0c.dll
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\bin\Debug\netcoreapp3.0\List11bad0c.pdb
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\obj\Debug\netcoreapp3.0\List11bad0c.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\obj\Debug\netcoreapp3.0\List11bad0c.AssemblyInfo.cs
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\obj\Debug\netcoreapp3.0\List11bad0c.dll
+C:\Users\emila\source\repos\List11bad0c\List11bad0c\obj\Debug\netcoreapp3.0\List11bad0c.pdb

@@ -1,0 +1,8 @@
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\net48\demo1.exe.config
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\net48\demo1.exe
+C:\Users\emila\source\repos\demo1\demo1\bin\Debug\net48\demo1.pdb
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\net48\demo1.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\net48\demo1.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\net48\demo1.AssemblyInfo.cs
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\net48\demo1.exe
+C:\Users\emila\source\repos\demo1\demo1\obj\Debug\net48\demo1.pdb

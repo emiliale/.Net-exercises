@@ -1,0 +1,12 @@
+C:\Users\emila\source\repos\ad1\ad1\bin\Debug\ad1.exe.config
+C:\Users\emila\source\repos\ad1\ad1\bin\Debug\ad1.exe
+C:\Users\emila\source\repos\ad1\ad1\bin\Debug\ad1.pdb
+C:\Users\emila\source\repos\ad1\ad1\obj\Debug\ad1.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\ad1\ad1\obj\Debug\ad1.exe
+C:\Users\emila\source\repos\ad1\ad1\obj\Debug\ad1.pdb
+C:\Users\emila\source\repos\LISTA4\ad1\ad1\bin\Debug\ad1.exe.config
+C:\Users\emila\source\repos\LISTA4\ad1\ad1\bin\Debug\ad1.exe
+C:\Users\emila\source\repos\LISTA4\ad1\ad1\bin\Debug\ad1.pdb
+C:\Users\emila\source\repos\LISTA4\ad1\ad1\obj\Debug\ad1.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\LISTA4\ad1\ad1\obj\Debug\ad1.exe
+C:\Users\emila\source\repos\LISTA4\ad1\ad1\obj\Debug\ad1.pdb

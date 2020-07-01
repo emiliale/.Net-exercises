@@ -1,0 +1,10 @@
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp2.2\VSHelloWorld.deps.json
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp2.2\VSHelloWorld.runtimeconfig.json
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp2.2\VSHelloWorld.runtimeconfig.dev.json
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp2.2\VSHelloWorld.dll
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp2.2\VSHelloWorld.pdb
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp2.2\VSHelloWorld.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp2.2\VSHelloWorld.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp2.2\VSHelloWorld.AssemblyInfo.cs
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp2.2\VSHelloWorld.dll
+C:\Users\emila\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp2.2\VSHelloWorld.pdb

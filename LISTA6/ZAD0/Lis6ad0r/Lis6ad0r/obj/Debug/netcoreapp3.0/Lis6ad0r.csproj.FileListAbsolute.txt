@@ -1,0 +1,11 @@
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\bin\Debug\netcoreapp3.0\Lis6ad0r.exe
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\bin\Debug\netcoreapp3.0\Lis6ad0r.deps.json
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\bin\Debug\netcoreapp3.0\Lis6ad0r.runtimeconfig.json
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\bin\Debug\netcoreapp3.0\Lis6ad0r.runtimeconfig.dev.json
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\bin\Debug\netcoreapp3.0\Lis6ad0r.dll
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\bin\Debug\netcoreapp3.0\Lis6ad0r.pdb
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\obj\Debug\netcoreapp3.0\Lis6ad0r.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\obj\Debug\netcoreapp3.0\Lis6ad0r.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\obj\Debug\netcoreapp3.0\Lis6ad0r.AssemblyInfo.cs
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\obj\Debug\netcoreapp3.0\Lis6ad0r.dll
+C:\Users\emila\source\repos\Lis6ad0r\Lis6ad0r\obj\Debug\netcoreapp3.0\Lis6ad0r.pdb

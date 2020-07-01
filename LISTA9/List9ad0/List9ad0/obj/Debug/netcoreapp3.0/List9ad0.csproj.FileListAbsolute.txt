@@ -1,0 +1,11 @@
+C:\Users\emila\source\repos\List9ad0\List9ad0\bin\Debug\netcoreapp3.0\List9ad0.exe
+C:\Users\emila\source\repos\List9ad0\List9ad0\bin\Debug\netcoreapp3.0\List9ad0.deps.json
+C:\Users\emila\source\repos\List9ad0\List9ad0\bin\Debug\netcoreapp3.0\List9ad0.runtimeconfig.json
+C:\Users\emila\source\repos\List9ad0\List9ad0\bin\Debug\netcoreapp3.0\List9ad0.runtimeconfig.dev.json
+C:\Users\emila\source\repos\List9ad0\List9ad0\bin\Debug\netcoreapp3.0\List9ad0.dll
+C:\Users\emila\source\repos\List9ad0\List9ad0\bin\Debug\netcoreapp3.0\List9ad0.pdb
+C:\Users\emila\source\repos\List9ad0\List9ad0\obj\Debug\netcoreapp3.0\List9ad0.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\List9ad0\List9ad0\obj\Debug\netcoreapp3.0\List9ad0.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\List9ad0\List9ad0\obj\Debug\netcoreapp3.0\List9ad0.AssemblyInfo.cs
+C:\Users\emila\source\repos\List9ad0\List9ad0\obj\Debug\netcoreapp3.0\List9ad0.dll
+C:\Users\emila\source\repos\List9ad0\List9ad0\obj\Debug\netcoreapp3.0\List9ad0.pdb

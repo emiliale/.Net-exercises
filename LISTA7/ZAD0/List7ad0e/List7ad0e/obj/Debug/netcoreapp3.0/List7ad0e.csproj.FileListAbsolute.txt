@@ -1,0 +1,11 @@
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\bin\Debug\netcoreapp3.0\List7ad0e.exe
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\bin\Debug\netcoreapp3.0\List7ad0e.deps.json
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\bin\Debug\netcoreapp3.0\List7ad0e.runtimeconfig.json
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\bin\Debug\netcoreapp3.0\List7ad0e.runtimeconfig.dev.json
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\bin\Debug\netcoreapp3.0\List7ad0e.dll
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\bin\Debug\netcoreapp3.0\List7ad0e.pdb
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\obj\Debug\netcoreapp3.0\List7ad0e.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\obj\Debug\netcoreapp3.0\List7ad0e.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\obj\Debug\netcoreapp3.0\List7ad0e.AssemblyInfo.cs
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\obj\Debug\netcoreapp3.0\List7ad0e.dll
+C:\Users\emila\source\repos\List7ad0e\List7ad0e\obj\Debug\netcoreapp3.0\List7ad0e.pdb

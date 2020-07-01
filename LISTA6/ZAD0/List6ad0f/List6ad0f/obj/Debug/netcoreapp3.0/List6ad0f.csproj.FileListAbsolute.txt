@@ -1,0 +1,3 @@
+C:\Users\emila\source\repos\List6ad0f\List6ad0f\obj\Debug\netcoreapp3.0\List6ad0f.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\List6ad0f\List6ad0f\obj\Debug\netcoreapp3.0\List6ad0f.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\List6ad0f\List6ad0f\obj\Debug\netcoreapp3.0\List6ad0f.AssemblyInfo.cs

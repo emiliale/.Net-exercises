@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "List6ad0o/1.0.0": {
+        "runtime": {
+          "List6ad0o.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List6ad0o/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

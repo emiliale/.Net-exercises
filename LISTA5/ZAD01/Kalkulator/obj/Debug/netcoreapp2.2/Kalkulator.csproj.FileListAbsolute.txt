@@ -1,0 +1,10 @@
+C:\Users\emila\source\repos\ZAD01\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.deps.json
+C:\Users\emila\source\repos\ZAD01\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.runtimeconfig.json
+C:\Users\emila\source\repos\ZAD01\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.runtimeconfig.dev.json
+C:\Users\emila\source\repos\ZAD01\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.dll
+C:\Users\emila\source\repos\ZAD01\Kalkulator\bin\Debug\netcoreapp2.2\Kalkulator.pdb
+C:\Users\emila\source\repos\ZAD01\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\ZAD01\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\ZAD01\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.AssemblyInfo.cs
+C:\Users\emila\source\repos\ZAD01\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.dll
+C:\Users\emila\source\repos\ZAD01\Kalkulator\obj\Debug\netcoreapp2.2\Kalkulator.pdb

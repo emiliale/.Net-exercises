@@ -1,0 +1,16 @@
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\TestHello2.deps.json
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\TestHello2.runtimeconfig.json
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\TestHello2.runtimeconfig.dev.json
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\TestHello2.dll
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\TestHello2.pdb
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\TestHello.dll
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\bin\Debug\netcoreapp2.2\TestHello.pdb
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\obj\Debug\netcoreapp2.2\TestHello2.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\obj\Debug\netcoreapp2.2\TestHello2.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\obj\Debug\netcoreapp2.2\TestHello2.AssemblyInfo.cs
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\obj\Debug\netcoreapp2.2\TestHello2.csproj.CopyComplete
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\obj\Debug\netcoreapp2.2\TestHello2.dll
+C:\Users\emila\source\repos\LISTA4\ad4netcore\TestHello2\obj\Debug\netcoreapp2.2\TestHello2.pdb

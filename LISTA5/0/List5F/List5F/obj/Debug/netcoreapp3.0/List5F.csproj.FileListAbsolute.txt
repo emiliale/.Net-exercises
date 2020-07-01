@@ -1,0 +1,11 @@
+C:\Users\emila\source\repos\List5F\List5F\bin\Debug\netcoreapp3.0\List5F.exe
+C:\Users\emila\source\repos\List5F\List5F\bin\Debug\netcoreapp3.0\List5F.deps.json
+C:\Users\emila\source\repos\List5F\List5F\bin\Debug\netcoreapp3.0\List5F.runtimeconfig.json
+C:\Users\emila\source\repos\List5F\List5F\bin\Debug\netcoreapp3.0\List5F.runtimeconfig.dev.json
+C:\Users\emila\source\repos\List5F\List5F\bin\Debug\netcoreapp3.0\List5F.dll
+C:\Users\emila\source\repos\List5F\List5F\bin\Debug\netcoreapp3.0\List5F.pdb
+C:\Users\emila\source\repos\List5F\List5F\obj\Debug\netcoreapp3.0\List5F.csprojAssemblyReference.cache
+C:\Users\emila\source\repos\List5F\List5F\obj\Debug\netcoreapp3.0\List5F.AssemblyInfoInputs.cache
+C:\Users\emila\source\repos\List5F\List5F\obj\Debug\netcoreapp3.0\List5F.AssemblyInfo.cs
+C:\Users\emila\source\repos\List5F\List5F\obj\Debug\netcoreapp3.0\List5F.dll
+C:\Users\emila\source\repos\List5F\List5F\obj\Debug\netcoreapp3.0\List5F.pdb
